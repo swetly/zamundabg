@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+    <!-- Plugin settings strings -->
+    <string id="30301">User</string>
+    <string id="30302">Password</string>
+    <string id="30303">Base Url</string>
+    <string id="30304">Enable Debug</string>
+    <string id="30305">View Mode</string>
+    <string id="30306">Bg Subs</string>
+    <string id="30307">Bg Audio</string>
+    <string id="30308">Show XXX</string>
+</strings>

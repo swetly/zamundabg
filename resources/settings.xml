@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <!-- General -->
+    <category label="30300">
+      <setting label="30301" type="text"   id="username" default=""/>
+      <setting label="30302" type="text"   id="password" option="hidden" default=""/>
+      <setting label="30303" type="text"   id="base" default="http://zamunda.net"/>
+      <setting label="30304" type="bool"   id="dbg" default="false"/>
+      <setting label="30305" type="number" id="viewset" default="504"/>
+      <setting label="30306" type="bool"   id="bg_sub" default="false"/>
+      <setting label="30307" type="bool"   id="bg_aud" default="false"/>
+      <setting label="30308" type="bool"   id="xxx" default="false"/>
+      <setting label=""      type="bool"   id="firstrun" visible="false" default="true"/>
+    </category>
+</settings>
