@@ -36,7 +36,7 @@ class zamunda():
     self.__categories = [
                     {'cat_ids':'5','cat_name':u'HD Movies'},
                     {'cat_ids':'31','cat_name':u'Science Movies'},
-                    {'cat_ids':'28','cat_name':u'Russian Movies'},
+                    {'cat_ids':'25','cat_name':u'Anime Movies'},
                     {'cat_ids':'24','cat_name':u'Bg Movies'},
                     {'cat_ids':'33','cat_name':u'HD Series'},
                     {'cat_ids':'7','cat_name':u'Series'},
